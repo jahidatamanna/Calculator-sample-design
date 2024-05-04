@@ -1,1 +1,1 @@
-### Chat GPT3 home page design  : https://random-page-design.netlify.app/
+### Chat GPT3 home page design  : https://chat-gpt3-home-page.netlify.app/
